@@ -1,8 +1,6 @@
 # Website template - Personal portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Minipliy/portfolio-website-template)
-![GitHub stars](https://img.shields.io/github/stars/Minipliy/portfolio-website-template?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Minipliy/portfolio-website-template?style=social)
 
 
 A modern, fully responsive personal portfolio template built with HTML, CSS, and JavaScript. Optimized for all devices and easy to customize.
